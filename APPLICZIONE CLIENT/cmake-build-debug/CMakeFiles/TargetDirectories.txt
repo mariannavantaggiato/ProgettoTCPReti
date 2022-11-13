@@ -1,0 +1,3 @@
+C:/Users/sergi/Desktop/Reti di calcolatori/Esonero/APPLICZIONE CLIENT/cmake-build-debug/CMakeFiles/APPLICZIONE_CLIENT.dir
+C:/Users/sergi/Desktop/Reti di calcolatori/Esonero/APPLICZIONE CLIENT/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sergi/Desktop/Reti di calcolatori/Esonero/APPLICZIONE CLIENT/cmake-build-debug/CMakeFiles/rebuild_cache.dir
