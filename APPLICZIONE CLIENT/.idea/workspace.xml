@@ -14,7 +14,56 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8a30aac-b113-4903-902f-dc58723c2621" name="Changes" comment="" />
+    <list default="true" id="b8a30aac-b113-4903-902f-dc58723c2621" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../APPLICAZIONE SERVER/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../APPLICAZIONE SERVER/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APPLICAZIONE SERVER/.idea/Esonero.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../APPLICAZIONE SERVER/.idea/Esonero.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APPLICAZIONE SERVER/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../APPLICAZIONE SERVER/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APPLICAZIONE SERVER/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../APPLICAZIONE SERVER/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APPLICAZIONE SERVER/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../APPLICAZIONE SERVER/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APPLICAZIONE SERVER/cmake-build-debug/.cmake/api/v1/reply/cache-v2-9cca66961f1499bcae41.json" beforeDir="false" afterPath="$PROJECT_DIR$/../APPLICAZIONE SERVER/cmake-build-debug/.cmake/api/v1/reply/cache-v2-9cca66961f1499bcae41.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APPLICAZIONE SERVER/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-a1b05bf46f454bcabdd1.json" beforeDir="false" afterPath="$PROJECT_DIR$/../APPLICAZIONE SERVER/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-a1b05bf46f454bcabdd1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APPLICAZIONE SERVER/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-ab1093d1cd13b23f81ed.json" beforeDir="false" afterPath="$PROJECT_DIR$/../APPLICAZIONE SERVER/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-ab1093d1cd13b23f81ed.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APPLICAZIONE SERVER/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" afterPath="$PROJECT_DIR$/../APPLICAZIONE SERVER/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APPLICAZIONE SERVER/cmake-build-debug/.cmake/api/v1/reply/index-2022-11-13T19-13-23-0667.json" beforeDir="false" afterPath="$PROJECT_DIR$/../APPLICAZIONE SERVER/cmake-build-debug/.cmake/api/v1/reply/index-2022-11-13T19-13-23-0667.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APPLICAZIONE SERVER/cmake-build-debug/.cmake/api/v1/reply/target-Esonero-Debug-c805e490864f0e6d7e9b.json" beforeDir="false" afterPath="$PROJECT_DIR$/../APPLICAZIONE SERVER/cmake-build-debug/.cmake/api/v1/reply/target-Esonero-Debug-c805e490864f0e6d7e9b.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APPLICAZIONE SERVER/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-827eb2640ce7f8dcca13.json" beforeDir="false" afterPath="$PROJECT_DIR$/../APPLICAZIONE SERVER/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-827eb2640ce7f8dcca13.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APPLICAZIONE SERVER/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../APPLICAZIONE SERVER/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APPLICAZIONE SERVER/cmake-build-debug/CMakeFiles/3.22.3/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../APPLICAZIONE SERVER/cmake-build-debug/CMakeFiles/3.22.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APPLICAZIONE SERVER/cmake-build-debug/CMakeFiles/3.22.3/CMakeRCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../APPLICAZIONE SERVER/cmake-build-debug/CMakeFiles/3.22.3/CMakeRCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APPLICAZIONE SERVER/cmake-build-debug/CMakeFiles/3.22.3/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../APPLICAZIONE SERVER/cmake-build-debug/CMakeFiles/3.22.3/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APPLICAZIONE SERVER/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" afterPath="$PROJECT_DIR$/../APPLICAZIONE SERVER/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APPLICAZIONE SERVER/cmake-build-debug/CMakeFiles/ShowIncludes/foo.h" beforeDir="false" afterPath="$PROJECT_DIR$/../APPLICAZIONE SERVER/cmake-build-debug/CMakeFiles/ShowIncludes/foo.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APPLICAZIONE SERVER/cmake-build-debug/CMakeFiles/ShowIncludes/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../APPLICAZIONE SERVER/cmake-build-debug/CMakeFiles/ShowIncludes/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APPLICAZIONE SERVER/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../APPLICAZIONE SERVER/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APPLICAZIONE SERVER/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" afterPath="$PROJECT_DIR$/../APPLICAZIONE SERVER/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APPLICAZIONE SERVER/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../APPLICAZIONE SERVER/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APPLICAZIONE SERVER/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../APPLICAZIONE SERVER/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APPLICAZIONE SERVER/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../APPLICAZIONE SERVER/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APPLICAZIONE SERVER/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../APPLICAZIONE SERVER/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cache-v2-ce68e3d49ac5bf5c1172.json" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cache-v2-ce68e3d49ac5bf5c1172.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-e02dfe90c94fb7ce9641.json" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-e02dfe90c94fb7ce9641.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-847dc4aa17e525eb371e.json" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-847dc4aa17e525eb371e.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2022-11-13T19-14-28-0290.json" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2022-11-13T19-14-28-0290.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-APPLICZIONE_CLIENT-Debug-8aee2ef7a63aa70495ec.json" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-APPLICZIONE_CLIENT-Debug-8aee2ef7a63aa70495ec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-827eb2640ce7f8dcca13.json" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-827eb2640ce7f8dcca13.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.22.3/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.22.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.22.3/CMakeRCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.22.3/CMakeRCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.22.3/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.22.3/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ShowIncludes/foo.h" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ShowIncludes/foo.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ShowIncludes/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ShowIncludes/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +73,9 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -33,6 +85,7 @@
     <option name="minorVersion" value="1.1" />
   </component>
   <component name="ProjectId" id="2HVORKXfY60aPbwRqBxDPrnM97Z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -45,15 +98,11 @@
     "WebServerToolWindowFactoryState": "false",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "last_opened_file_path": "C:/Users/sergi/Desktop/Reti di calcolatori/Esonero/APPLICZIONE CLIENT"
+    "last_opened_file_path": "C:/Users/sergi/Desktop/Reti di calcolatori/Esonero/APPLICAZIONE SERVER",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
   <component name="RunManager">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="APPLICZIONE_CLIENT" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="APPLICZIONE_CLIENT" TARGET_NAME="APPLICZIONE_CLIENT" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="APPLICZIONE_CLIENT" RUN_TARGET_NAME="APPLICZIONE_CLIENT">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -70,10 +119,16 @@
       <updated>1668366774949</updated>
       <workItem from="1668366777391" duration="19000" />
       <workItem from="1668366867806" duration="24000" />
+      <workItem from="1668412960331" duration="59000" />
+      <workItem from="1668413119635" duration="897000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
