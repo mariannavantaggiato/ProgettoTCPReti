@@ -1,0 +1,6 @@
+# ninja log v5
+1	530	6901227704603784	CMakeFiles/Esonero.dir/main.c.obj	ccd8907b0320213a
+3	273	6902337638902641	build.ninja	2ed88fd6ef4a7703
+1	401	6902337638902641	build.ninja	2ed88fd6ef4a7703
+0	943	6902337650107378	CMakeFiles/Esonero.dir/main.c.obj	ccd8907b0320213a
+955	1544	6902337655966693	Esonero.exe	b42a5fed6f00faec

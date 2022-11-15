@@ -1,3 +1,4 @@
+#pragma comment(lib, "ws2_32.lib") //link alla libreria ws2_32.lib
 #if defined WIN32
 #include <winsock.h>
 #else
@@ -9,7 +10,8 @@
 #include <unistd.h>
 //serve per la chiusura
 #endif
-
+#include <stdio.h>
+#include <stdlib.h>
 struct sockaddr_in IndirizzoServer;
 struct sockaddr_in IndirizzoClient;
 
@@ -60,7 +62,7 @@ int main()
         PulisciWinSock();
     }
     IndirizzoServer.sin_family = AF_INET;
-    IndirizzoServer.sin_addr = ("127.0.0.1"); //localhost ip server
+    IndirizzoServer.sin_addr.S_un.S_addr = inet_addr("127.0.0.1"); //localhost ip server
     IndirizzoServer.sin_port = htons(4999); //indirizzo porta
 
     if(bind(socketServer,(struct sockaddr*) &IndirizzoServer,sizeof (IndirizzoServer))<0)

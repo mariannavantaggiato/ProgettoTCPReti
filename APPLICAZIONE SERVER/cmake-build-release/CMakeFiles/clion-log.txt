@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2022.1.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Release "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2022.1.1/bin/ninja/win/ninja.exe" -Lws2_32 -G Ninja -S "C:\Users\sergi\Desktop\Reti di calcolatori\Esonero\APPLICAZIONE SERVER" -B "C:\Users\sergi\Desktop\Reti di calcolatori\Esonero\APPLICAZIONE SERVER\cmake-build-release"
+CMake Error: Unknown argument -Lws2_32
+CMake Error: Run 'cmake --help' for all supported options.
